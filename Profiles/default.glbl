@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>default</name>
+   <tag></tag>
+   <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://www.phptravels.net/home'</initValue>
+      <name>urlFrontEnd</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://www.phptravels.net/admin'</initValue>
+      <name>urlBackEnd</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'user@phptravels.com'</initValue>
+      <name>emailFrontEnd</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'demouser'</initValue>
+      <name>passwordFrontEnd</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'admin@phptravels.com'</initValue>
+      <name>emailBackend</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'demoadmin'</initValue>
+      <name>passwordBackend</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>
